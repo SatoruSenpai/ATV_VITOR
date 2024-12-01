@@ -1,4 +1,5 @@
-🛠️ Funcionalidades
+# 🛠️ Funcionalidades
+--
 HTML com base compartilhada
 Todas as páginas HTML (cadastro, contato, index e usuario) foram estruturadas para aproveitar o uso do arquivo base promovendo consistência no design.
 
@@ -11,7 +12,8 @@ Um novo arquivo HTML chamado cadastro.html, foi adicionado. Ele conta com uma fu
 Melhorias visuais
 Estilizamos algumas páginas com um toque especial adicionando imagens e ajustes no design para uma experiência mais agradável.
 
-📂 Estrutura
+# 📂 Estrutura
+--
 Rota raiz ('/')
 Configura qual página será carregada como principal no projeto.
 
